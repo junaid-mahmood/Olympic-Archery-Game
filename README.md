@@ -4,6 +4,10 @@ Welcome to the **Olympic Archery Game**, where your goal is to hit the target wh
 
 [Play the Game](https://junaid-mahmood.github.io/Olympic-Archery-Game/)
 
+## Screenshot
+<img width="400" alt="Screenshot 2024-09-01 at 8 56 57 PM" src="https://github.com/user-attachments/assets/8b1e15c1-4349-4e4c-900a-79df4f31e91d">
+
+
 ## How to Play
 
 - **Objective**: Hit the target as accurately as possible while the bow is moving.
